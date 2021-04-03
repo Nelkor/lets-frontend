@@ -40,7 +40,6 @@
     "quote-props": ["error", "consistent-as-needed"],
     "linebreak-style": ["error", "unix"],
     "padded-blocks": ["error", "never"],
-    "no-use-before-define": "error",
     "no-unused-expressions": "error",
     "arrow-spacing": ["error", { "before": true, "after": true }],
     "space-in-parens": ["error", "never"],

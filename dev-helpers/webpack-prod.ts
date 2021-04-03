@@ -7,7 +7,7 @@ export const prodRoot = {
   mode: 'production',
   output: {
     filename: 'bundle.[contenthash].js',
-    path: resolve('../dist'),
+    path: resolve('dist'),
   },
 }
 
