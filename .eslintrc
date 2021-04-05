@@ -47,6 +47,7 @@
     "function-paren-newline": ["error", "multiline"],
     "array-bracket-newline": ["error", { "multiline": true }],
     "brace-style": ["error", "1tbs"],
+    "object-curly-newline": ["error", { "multiline": true }],
     "object-shorthand": ["error", "always", {
       "avoidQuotes": true,
       "avoidExplicitReturnArrows": true
